@@ -1,7 +1,7 @@
 # Inspiration
 Traffic-jam is a very big problem in developing cities, In fact it’s ever increasing day-by-day nature makes it difficult to find where the traffic density is more in real time, so that to schedule a better traffic signal control and effective traffic routing. The root cause of this can be of different situations like congestion in traffic like insufficient Road width, Road conditions due to weather, unrestrained demand, large delay of Red Light etc. While insufficient capacity and unrestrained demand are somewhere interrelated, the delay of respective light is hard coded and not dependent on traffic. Indeed, manual control is must, Therefore, in order to reduce man’s power, the need for simulating and optimizing traffic control to satisfy the increasing demand arises. Technology in  the recent past using image processing for surveillance and safety, which is widely used in vehicle and traffic management for traveler information. The traffic density estimation can also be achieved using Image Processing.
 
-# PROPOSED SOLUTIONS
+# Proposed Solution
 We propose a technique that can be used for traffic control using image processing.  According to the traffic densities on all roads, our model will allocate smartly the time period of green light for each road. We have chosen image processing for calculation of traffic density as cameras are very much cheaper than other devices such as sensors. The proposed model is constructed as follows: We have a Raspberry Pi that is connected to 4 sets of LED that represent the traffic lights. It is the process of monitoring the traffic density of each side and  change the signal according to the density in every direction.
 
 # Future Scope
