@@ -7,3 +7,5 @@ We propose a technique that can be used for traffic control using image processi
 # Future Scope
 This project can be enhanced in such a way as to control automatically the signals depending on the traffic density on the roads using sensors like IR detector/receiver module extended with automatic turn off when no vehicles are running on any side of the road which helps in power consumption saving. This project also allows better priority to certain vehicles like ambulances. when the IR detector receives this type of signal then it automatically transits to green. It acts as a life saving device.
 
+# Demo
+![image](https://user-images.githubusercontent.com/93609977/159646397-0fc6acd9-2105-4d28-8e70-ac75e4d7c351.png)
